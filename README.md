@@ -7,3 +7,7 @@ A #QuarentenaDev foi uma maratona de aulas da Alura para iniciantes criarem seus
 Nesse repositório estão todos os projetos que desenvolvi durante essa maratona e pretendo ir desenvolvendo melhorias para cada projeto. 
 
 =)
+
+Projetos disponíveis de cada aula:
+
+Aula 02 - Dias de Vida;
