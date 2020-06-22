@@ -17,6 +17,7 @@ Nesse repositório estão todos os projetos que desenvolvi durante essa maratona
 
 
 ## 🎨 Projetos
+*⚙ Em andamento*
 
 Projetos disponíveis de cada aula:
 
