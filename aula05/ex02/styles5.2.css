@@ -1,0 +1,35 @@
+*{
+    background-color:#363636;
+    
+}
+  
+img.topo{
+    width: 280px;
+    heigth: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+  
+h2 {
+    color: #6A5ACD;
+    font-family: monospace;
+    text-align: center;
+}
+  
+h3 {
+    color: #6A5ACD;
+    font-family: monospace;
+    text-align: center;
+    font-size:14px;
+}
+    
+img.icone {
+    width: 75px;
+    heigth: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
