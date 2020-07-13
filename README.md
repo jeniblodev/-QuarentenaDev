@@ -30,3 +30,20 @@ Projetos disponíveis de cada aula:
 
 **Aula 04**
 - Calculadora de App
+
+**Aula 05**
+- Currículo
+- Calculadora de App Melhorada
+- Reprodução de Layout
+- Pokebola PixelArt
+- BB8 PixelArt
+
+## 🖼️ Resultado
+
+**Calculadora de App Melhorada**
+
+![](https://github.com/jeniblodev/-QuarentenaDev/blob/master/aula05/ex02/aula_05.2.PNG)
+
+**PixelArt - BB8 e Pokebola**
+
+![](https://github.com/jeniblodev/-QuarentenaDev/blob/master/aula05/ex05/aula_05.5.PNG) ![](https://github.com/jeniblodev/-QuarentenaDev/blob/master/aula05/ex04/aula_05.4.PNG)
